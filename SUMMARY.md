@@ -1,6 +1,11 @@
 # Table of contents
 
 * [About this Project](README.md)
+* [Contributing](contributing.md)
+
+## Amendments
+
+* [Financial Transparency](amendments/financial-transparency.md)
 
 ## Articles
 
