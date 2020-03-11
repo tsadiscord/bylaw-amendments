@@ -6,7 +6,7 @@ description: By GitHub user CollinSumrell
 
 ### Pull Requests
 
-* [Added clause to increase financial transparency \(_\#1\)_](https://github.com/tsadiscord/bylaw-amendments/pull/1)\_\_
+* [Added clause to increase financial transparency \(1\)](https://github.com/tsadiscord/bylaw-amendments/pull/1)
 
 {% hint style="info" %}
 ### If you have similar changes, add them to this amendment
