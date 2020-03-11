@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Placeholder Homepage](README.md)
+* [About this Project](README.md)
 
 ## Articles
 
