@@ -14,5 +14,5 @@ A majority of the registered voting delegates for the national conference shall 
 
 ### SECTION 4
 
-- In the event that there is a threat to the safety and stability of the conference or its attendees, the TSA, Inc., Board of Directors reserve the right to cancel or postpone the National TSA Conference.
-- The TSA, Inc., Board of Directors shall attempt to make any cancellations or postponements at least 90 days before the conference, but these Bylaws shall not go so far as to restrict the Board from responding to an emergency cancellation or postponement.
+- In the event that there is a threat to the safety or stability of the conference or its attendees, the TSA, Inc., Board of Directors reserves the right to cancel or postpone the National TSA Conference.
+- The TSA, Inc., Board of Directors shall attempt to make any cancellations or postponements at least 90 days before the conference, but these Bylaws shall not go so far as to restrict the Board from responding to any emergency that demands the cancellation or postponement of the conference.
