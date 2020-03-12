@@ -5,6 +5,7 @@
 
 ## Amendments
 
+* [Provisions for National Conference Cancellation](amendments/provisions-for-national-conference-cancellation.md)
 * [Financial Transparency](amendments/financial-transparency.md)
 
 ## Articles
