@@ -59,3 +59,13 @@ The special election shall be conducted after the winners of the general electio
 
 The special election shall not have any runoffs. The winner of the special election shall be the person with a plurality of the vote and will be announced immediately following the tabulation of the votes.
 
+### SECTION 11
+
+In the event that the National TSA Conference is cancelled, special rules are to be followed for national officer election:
+
+- TSA delegates will not have an opportunity to vote for national officers.
+- The credentials committee referenced in Section 4 of this article shall be charged with both reviewing and nominating candidates for office from three distinct pools of candidates.
+- Nominations made by the credentials committee shall be reviewed by the TSA, Inc., Board of Directors.
+- The first pool of candidates shall consist of those who have applied to be a national officer via the National TSA Officer Candidate Program. If there are not enough candidates to fill all officer positions that have applied via the National TSA Officer Candidate Program, or the credentials committee determines that there are not enough satisfactory candidates, the candidate pool shall open to the second pool of candidates.
+- The second pool of candidates shall consist of a group of willing state vice-presidents that are qualified for national office. If there are not enough candidates to fill all remaining officer positions, or the credentials committee determines that there are not enough satisfactory candidates, the candidate pool shall open to the third pool of candidates.
+- The third pool of candidates shall consist of a group of all other willing state officers that are qualified for national office. If there are not enough candidates to fill all remaining officer positions, or the credentials committee determines that there are not enough satisfactory candidates, the remaining positions shall be considered vacant and filled according to rules stipulated in Section 6 of this article.
