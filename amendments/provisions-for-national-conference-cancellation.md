@@ -6,7 +6,7 @@ description: By GitHub user CollinSumrell
 
 ### Pull Requests
 
-- [Proposed provisions for National Conference cancellation \(1\)](https://github.com/tsadiscord/bylaw-amendments/pull/2)
+- [Proposed provisions for National Conference cancellation \(2\)](https://github.com/tsadiscord/bylaw-amendments/pull/2)
 
 {% hint style="info" %}
 
